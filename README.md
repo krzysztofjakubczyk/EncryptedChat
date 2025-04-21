@@ -13,7 +13,9 @@ AES — for symmetric encryption of messages.
 SHA-256 — for hashing messages to verify integrity.
 
 💬 How It Works:
+
 Connection:
+
 The client establishes a TCP connection to the server (127.0.0.1:7891).
 
 Key Exchange:
