@@ -1,0 +1,15 @@
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\bin\Debug\net8.0\Serwer.exe
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\bin\Debug\net8.0\Serwer.deps.json
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\bin\Debug\net8.0\Serwer.runtimeconfig.json
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\bin\Debug\net8.0\Serwer.dll
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\bin\Debug\net8.0\Serwer.pdb
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\Serwer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\Serwer.AssemblyInfoInputs.cache
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\Serwer.AssemblyInfo.cs
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\Serwer.sourcelink.json
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\Serwer.dll
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\refint\Serwer.dll
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\Serwer.pdb
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\Serwer.genruntimeconfig.cache
+C:\Users\najno\OneDrive\Pulpit\Dokumenty\Programowanie\WpfApp1\ConsoleApp1\obj\Debug\net8.0\ref\Serwer.dll
